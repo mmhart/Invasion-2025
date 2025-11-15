@@ -1,5 +1,4 @@
 # Invasion-2025
-# Invasion 2025
 
 Study tracking the persistence of a AMF (arbuscular mycorrhizal fungi) biofertlizer over 13 years. This study looks at the fate of an introduced AMF, Rhizophagus irregularis DAOM 197198 in natural systems and asks the questions:
 •	Does it establish?
@@ -58,6 +57,6 @@ Files:
 References
 •	Lee, J., Lee, S., & Young, J. P. W. (2008). Improved PCR primers for the detection and identification of arbuscular mycorrhizal fungi. FEMS Microbiology Ecology, 65(2), 339–349.
 •	Dumbrell, A. J., et al. (2011). Distinct seasonal assemblages of arbuscular mycorrhizal fungi revealed by massively parallel pyrosequencing. New Phytologist, 190(3), 794–804
-•Kokkoris V, Li Y, Hamel C, Hanson K, Hart MM. (2019) Site specificity in establishment of a commercial arbuscular mycorrhizal
+• Kokkoris V, Li Y, Hamel C, Hanson K, Hart MM. (2019) Site specificity in establishment of a commercial arbuscular mycorrhizal
 fungal inoculant. Science of the Total Environment 660 (2019) 1135–1143
 
