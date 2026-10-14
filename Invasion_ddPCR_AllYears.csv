@@ -1,0 +1,560 @@
+﻿RecordID,CollectionYear,SourceRow,RecordType,StudyLocation,Plot,PlantNumber,DistanceFromPlant_cm,TransectPositionIndex,DistanceFromTransectOrigin_m,OriginalPlant,OriginalDistanceOrPosition,OriginalSampleID,Concentration_original_reported,CopiesPer20uLWell,Positives,Negatives,AcceptedDroplets,Threshold,MeanAmplitudeofPositives,MeanAmplitudeofNegatives,MeanAmplitudeTotal,CopiesPer1gSoil_reported,Presence_reported,Assay,Target,SampleMaterial
+2014_row2,2014,2,Assay control,,,,,,,,,NTC,0,0,0,17453,17453,,0,958.75,958.75,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row3,2014,3,Assay control,,,,,,,,,NTC,0,0,0,11979,11979,,0,929.39,929.39,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row4,2014,4,Assay control,,,,,,,,,NTC,0.08,1.6,1,15248,15249,,8188.7,983.27,983.74,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row5,2014,5,Assay control,,,,,,,,,POSITIVE,25.7,514,305,13794,14099,,7625.9,938.93,1083.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row6,2014,6,Assay control,,,,,,,,,POSITIVE,38.3,766,472,14276,14748,,7425,926.68,1134.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row7,2014,7,Assay control,,,,,,,,,POSITIVE,29.5,590,362,14250,14612,,8057.2,994.35,1169.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row8,2014,8,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,1,,,1,1,1.A.1.1,9.9,198,138,16319,16457,,7603.7,999.71,1055.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row9,2014,9,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,2,,,,2,1.A.1.2,0,0,0,15549,15549,,0,990.46,990.46,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row10,2014,10,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,10,,,,10,1.A.1.10,2.1,42,28,15499,15527,,6755.1,984.05,994.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row11,2014,11,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,25,,,,25,1.A.1.25,0.08,1.6,1,15345,15346,,8476.4,991.23,991.72,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row12,2014,12,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,50,,,,50,1.A.1.50,0,0,0,13120,13120,,0,888.86,888.86,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row13,2014,13,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,1,,,2,1,1.A.2.1,0.61,12.2,8,15532,15540,,7128,988.89,992.05,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row14,2014,14,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,10,,,,10,1.A.2.10,0,0,0,15997,15997,,0,982.83,982.83,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row15,2014,15,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,25,,,,25,1.A.2.25,2,40,26,15631,15657,,6965.3,981.22,991.16,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row16,2014,16,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,50,,,,50,1.A.2.50,0.29,5.8,4,16404,16408,,7091.1,956.47,957.97,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row17,2014,17,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,1,,,3,1,1.A.3.1,0.07,1.4,1,16995,16996,,6404.2,969.25,969.57,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row18,2014,18,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,10,,,,10,1.A.3.10,0,0,0,17601,17601,,0,970.5,970.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row19,2014,19,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,25,,,,25,1.A.3.25,0,0,0,16364,16364,,0,968.82,968.82,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row20,2014,20,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,50,,,,50,1.A.3.50,0.15,3,2,15272,15274,,6210.8,969.31,970,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row21,2014,21,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,1,,,4,1,1.A.4.1,12.8,256,168,15343,15511,,6207.9,1203.9,1258.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row22,2014,22,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,10,,,,10,1.A.4.10,0.28,5.6,4,16591,16595,,6445.2,977.08,978.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row23,2014,23,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,25,,,,25,1.A.4.25,9.1,182,116,15011,15127,,6599.1,977,1020.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row24,2014,24,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,50,,,,50,1.A.4.50,0.5,10,6,14139,14145,,6440.9,971.21,973.53,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row25,2014,25,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,1,,,5,1,1.A.5.1,12.8,256,182,16695,16877,,7301.6,948.46,1017,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row26,2014,26,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,10,,,,10,1.A.5.10,4,80,54,15691,15745,,7023.8,954.87,975.69,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row27,2014,27,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,25,,,,25,1.A.5.25,1.1,22,15,16561,16576,,7617.5,957.92,963.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row28,2014,28,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,50,,,,50,1.A.5.50,0.59,11.8,8,15896,15904,,7408,953.34,956.59,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row29,2014,29,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,1,,,1,1,1.T.1.1,0.19,3.8,3,18291,18294,,6994.5,948.44,949.43,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row30,2014,30,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,10,,,,10,1.T.1.10,0.26,5.2,4,17758,17762,,6663.7,938.94,940.23,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row31,2014,31,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,25,,,,25,1.T.1.25,5.5,110,94,19943,20037,,6502.8,952.35,978.39,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row32,2014,32,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,50,,,,50,1.T.1.50,21.8,436,331,17714,18045,,6396.8,1026.5,1125,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row33,2014,33,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,1,,,2,1,1.T.2.1,8.2,164,120,17075,17195,,6933,947.97,989.74,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row34,2014,34,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,10,,,,10,1.T.2.10,11.3,226,160,16591,16751,,6676.1,963.24,1017.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row35,2014,35,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,25,,,,25,1.T.2.25,42.1,842,581,15929,16510,,6931.8,956.53,1166.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row36,2014,36,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,50,,,,50,1.T.2.50,15.5,310,236,17748,17984,,6465.6,979.11,1051.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row37,2014,37,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,1,,,3,1,1.T.3.1,0,0,0,17975,17975,,0,937.7,937.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row38,2014,38,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,10,,,,10,1.T.3.10,0.17,3.4,2,13858,13860,,6530.5,917.96,918.77,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row39,2014,39,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,25,,,,25,1.T.3.25,2.7,54,39,17210,17249,,6942.2,939.43,953.01,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row40,2014,40,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,50,,,,50,1.T.3.50,4.3,86,63,17130,17193,,6592.6,949.61,970.29,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row41,2014,41,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,1,,,4,1,1.T.4.1,1.4,28,21,17138,17159,,6381.2,948.71,955.36,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row42,2014,42,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,2,,,,2,1.T.4.2,0,0,0,16042,16042,,0,954.45,954.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row43,2014,43,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,10,,,,10,1.T.4.10,0.68,13.6,10,17220,17230,,6265.7,940.88,943.97,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row44,2014,44,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,25,,,,25,1.T.4.25,0,0,0,18188,18188,,0,795.88,795.88,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row45,2014,45,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,50,,,,50,1.T.4.50,0,0,0,17134,17134,,0,955.79,955.79,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row46,2014,46,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,1,,,5,1,1.T.5.1,5.2,104,79,17884,17963,,7108.2,942.58,969.69,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row47,2014,47,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,10,,,,10,1.T.5.10,0.58,11.6,9,18294,18303,,6515,934.5,937.24,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row48,2014,48,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,25,,,,25,1.T.5.25,4.6,92,69,17651,17720,,6604.2,948.42,970.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row49,2014,49,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,50,,,,50,1.T.5.50,0,0,0,16583,16583,,0,947.03,947.03,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row50,2014,50,Soil sample,UBC Okanagan West Campus Lands,Quail,1,1,,,1,1,1.Q.1.1,134,2680,1706,14101,15807,,7607.8,1046.9,1755,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row51,2014,51,Soil sample,UBC Okanagan West Campus Lands,Quail,1,2,,,,2,1.Q.1.2,32.8,656,347,12282,12629,,6692.7,1080.1,1234.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row52,2014,52,Soil sample,UBC Okanagan West Campus Lands,Quail,1,10,,,,10,1.Q.1.10,29.8,596,412,16057,16469,,6926.9,1035.3,1182.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row53,2014,53,Soil sample,UBC Okanagan West Campus Lands,Quail,1,25,,,,25,1.Q.1.25,34.6,692,465,15572,16037,,6915.1,1042.1,1212.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row54,2014,54,Soil sample,UBC Okanagan West Campus Lands,Quail,1,50,,,,50,1.Q.1.50,1.4,28,21,17876,17897,,7091.6,1017.2,1024.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row55,2014,55,Soil sample,UBC Okanagan West Campus Lands,Quail,2,1,,,2,1,1.Q.2.1,13.2,264,191,16867,17058,,7843.9,1006.3,1082.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row56,2014,56,Soil sample,UBC Okanagan West Campus Lands,Quail,2,10,,,,10,1.Q.2.10,6.5,130,44,7956,8000,,6943.5,943.41,976.41,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row57,2014,57,Soil sample,UBC Okanagan West Campus Lands,Quail,2,25,,,,25,1.Q.2.25,21.6,432,297,16061,16358,,7690,998.23,1119.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row58,2014,58,Soil sample,UBC Okanagan West Campus Lands,Quail,2,50,,,,50,1.Q.2.50,9.7,194,143,17309,17452,,7648.6,1003.1,1057.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row59,2014,59,Soil sample,UBC Okanagan West Campus Lands,Quail,3,1,,,3,1,1.Q.3.1,20.8,416,270,15105,15375,,6430,1085.5,1179.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row60,2014,60,Soil sample,UBC Okanagan West Campus Lands,Quail,3,10,,,,10,1.Q.3.10,6.4,128,86,15842,15928,,6831.5,997.62,1029.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row61,2014,61,Soil sample,UBC Okanagan West Campus Lands,Quail,3,25,,,,25,1.Q.3.25,0.14,2.8,2,17260,17262,,6947.9,1006.9,1007.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row62,2014,62,Soil sample,UBC Okanagan West Campus Lands,Quail,3,50,,,,50,1.Q.3.50,9,180,111,14383,14494,,7354.4,990.91,1039.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row63,2014,63,Soil sample,UBC Okanagan West Campus Lands,Quail,4,1,,,4,1,1.Q.4.1,0,0,0,15223,15223,,0,991.83,991.83,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row64,2014,64,Soil sample,UBC Okanagan West Campus Lands,Quail,4,10,,,,10,1.Q.4.10,4.2,84,58,16344,16402,,7845.9,1015.9,1040.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row65,2014,65,Soil sample,UBC Okanagan West Campus Lands,Quail,4,25,,,,25,1.Q.4.25,0,0,0,14572,14572,,0,964.12,964.12,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row66,2014,66,Soil sample,UBC Okanagan West Campus Lands,Quail,4,50,,,,50,1.Q.4.50,0.31,6.2,4,15056,15060,,7575.5,1005.2,1007,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row67,2014,67,Soil sample,UBC Okanagan West Campus Lands,Quail,5,1,,,5,1,1.Q.5.1,2.4,48,32,15423,15455,,7065,1000.6,1013.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row68,2014,68,Soil sample,UBC Okanagan West Campus Lands,Quail,5,10,,,,10,1.Q.5.10,0.54,10.8,7,15130,15137,,7037.6,1004.9,1007.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row69,2014,69,Soil sample,UBC Okanagan West Campus Lands,Quail,5,25,,,,25,1.Q.5.25,10.2,204,113,12965,13078,,6637.3,979.36,1028.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row70,2014,70,Soil sample,UBC Okanagan West Campus Lands,Quail,5,50,,,,50,1.Q.5.50,3.3,66,42,14953,14995,,7068.7,985.35,1002.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row72,2014,72,Assay control,,,,,,,,,POSITIVE,26.6,532,328,14317,14645,,7734,1002.4,1153.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row73,2014,73,Assay control,,,,,,,,,POSITIVE,29.9,598,308,11970,12278,,7703.1,982.33,1150.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row74,2014,74,Assay control,,,,,,,,,POSITIVE,29.9,598,343,13326,13669,,7707.7,993.81,1162.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row75,2014,75,Assay control,,,,,,,,,NTC,0,0,0,15560,15560,,0,989.15,989.15,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row76,2014,76,Assay control,,,,,,,,,NTC,0,0,0,16031,16031,,0,993.21,993.21,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row77,2014,77,Assay control,,,,,,,,,NTC,0,0,0,12721,12721,,0,974.57,974.57,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2014_row78,2014,78,Soil sample,Knox Mountain,KM 2,1,1,,,1,1,1.K2.1.1,0,0,0,14717,14717,,0,1039.5,1039.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row79,2014,79,Soil sample,Knox Mountain,KM 2,1,2,,,,2,1.K2.1.2,0,0,0,15052,15052,,0,1026.4,1026.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row80,2014,80,Soil sample,Knox Mountain,KM 2,1,10,,,,10,1.K2.1.10,0,0,0,15789,15789,,0,1025.2,1025.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row81,2014,81,Soil sample,Knox Mountain,KM 2,1,25,,,,25,1.K2.1.25,0,0,0,13337,13337,,0,996.96,996.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row82,2014,82,Soil sample,Knox Mountain,KM 2,1,50,,,,50,1.K2.1.50,0,0,0,14854,14854,,0,1050.2,1050.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row83,2014,83,Soil sample,Knox Mountain,KM 2,2,1,,,2,1,1.K2.2.1,0,0,0,16459,16459,,0,1031,1031,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row84,2014,84,Soil sample,Knox Mountain,KM 2,2,10,,,,10,1.K2.2.10,0,0,0,15822,15822,,0,1031.3,1031.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row85,2014,85,Soil sample,Knox Mountain,KM 2,2,25,,,,25,1.K2.2.25,0.08,1.6,1,15189,15190,,7843.9,1028.5,1029,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row86,2014,86,Soil sample,Knox Mountain,KM 2,2,50,,,,50,1.K2.2.50,0,0,0,15890,15890,,0,996.11,996.11,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row87,2014,87,Soil sample,Knox Mountain,KM 2,3,1,,,3,1,1.K2.3.1,0,0,0,15450,15450,,0,1002.9,1002.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row88,2014,88,Soil sample,Knox Mountain,KM 2,3,10,,,,10,1.K2.3.10,0,0,0,17206,17206,,0,1006,1006,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row89,2014,89,Soil sample,Knox Mountain,KM 2,3,25,,,,25,1.K2.3.25,0,0,0,15002,15002,,0,1026.2,1026.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row90,2014,90,Soil sample,Knox Mountain,KM 2,3,50,,,,50,1.K2.3.50,0,0,0,14667,14667,,0,1012.2,1012.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row91,2014,91,Soil sample,Knox Mountain,KM 2,4,1,,,4,1,1.K2.4.1,0,0,0,15251,15251,,0,1018.3,1018.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row92,2014,92,Soil sample,Knox Mountain,KM 2,4,10,,,,10,1.K2.4.10,0.08,1.6,1,14659,14660,,7366.9,1004.1,1004.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row93,2014,93,Soil sample,Knox Mountain,KM 2,4,25,,,,25,1.K2.4.25,1.3,26,16,14853,14869,,6942,996.81,1003.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row94,2014,94,Soil sample,Knox Mountain,KM 2,4,50,,,,50,1.K2.4.50,0,0,0,14930,14930,,0,980.05,980.05,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row95,2014,95,Soil sample,Knox Mountain,KM 2,5,1,,,5,1,1.K2.5.1,0,0,0,15388,15388,,0,987.61,987.61,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row96,2014,96,Soil sample,Knox Mountain,KM 2,5,10,,,,10,1.K2.5.10,0,0,0,12462,12462,,0,991.24,991.24,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row97,2014,97,Soil sample,Knox Mountain,KM 2,5,25,,,,25,1.K2.5.25,0,0,0,15643,15643,,0,990.91,990.91,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row98,2014,98,Soil sample,Knox Mountain,KM 2,5,50,,,,50,1.K2.5.50,0,0,0,14251,14251,,0,984.99,984.99,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row99,2014,99,Soil sample,Knox Mountain,KM 4,1,1,,,1,1,1.K4.1.1,0,0,0,13766,13766,,0,973.94,973.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row100,2014,100,Soil sample,Knox Mountain,KM 4,1,10,,,,10,1.K4.1.10,0,0,0,8874,8874,,0,1022.3,1022.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row101,2014,101,Soil sample,Knox Mountain,KM 4,1,25,,,,25,1.K4.1.25,0,0,0,9514,9514,,0,1011.2,1011.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row102,2014,102,Soil sample,Knox Mountain,KM 4,1,50,,,,50,1.K4.1.50,0,0,0,10171,10171,,0,1016.3,1016.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row103,2014,103,Soil sample,Knox Mountain,KM 4,2,1,,,2,1,1.K4.2.1,0,0,0,8764,8764,,0,1009.3,1009.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row104,2014,104,Soil sample,Knox Mountain,KM 4,2,10,,,,10,1.K4.2.10,0,0,0,9321,9321,,0,1001.6,1001.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row105,2014,105,Soil sample,Knox Mountain,KM 4,2,25,,,,25,1.K4.2.25,0,0,0,9698,9698,,0,1018.1,1018.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row106,2014,106,Soil sample,Knox Mountain,KM 4,2,50,,,,50,1.K4.2.50,0,0,0,9414,9414,,0,1016.6,1016.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row107,2014,107,Soil sample,Knox Mountain,KM 4,3,1,,,3,1,1.K4.3.1,0,0,0,10162,10162,,0,1009.1,1009.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row108,2014,108,Soil sample,Knox Mountain,KM 4,3,10,,,,10,1.K4.3.10,0,0,0,15712,15712,,0,990.61,990.61,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row109,2014,109,Soil sample,Knox Mountain,KM 4,3,25,,,,25,1.K4.3.25,0,0,0,15104,15104,,0,980.86,980.86,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row110,2014,110,Soil sample,Knox Mountain,KM 4,3,50,,,,50,1.K4.3.50,0,0,0,17649,17649,,0,974.32,974.32,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row111,2014,111,Soil sample,Knox Mountain,KM 4,4,1,,,4,1,1.K4.4.1,0,0,0,17101,17101,,0,966.83,966.83,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row112,2014,112,Soil sample,Knox Mountain,KM 4,4,2,,,,2,1.K4.4.2,0,0,0,17031,17031,,0,970.55,970.55,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row113,2014,113,Soil sample,Knox Mountain,KM 4,4,10,,,,10,1.K4.4.10,0,0,0,16793,16793,,0,976.96,976.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row114,2014,114,Soil sample,Knox Mountain,KM 4,4,25,,,,25,1.K4.4.25,0,0,0,16473,16473,,0,975.62,975.62,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row115,2014,115,Soil sample,Knox Mountain,KM 4,4,50,,,,50,1.K4.4.50,0,0,0,17150,17150,,0,971.31,971.31,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row116,2014,116,Soil sample,Knox Mountain,KM 4,5,1,,,5,1,1.K4.5.1,0,0,0,13641,13641,,0,967.85,967.85,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row117,2014,117,Soil sample,Knox Mountain,KM 4,5,10,,,,10,1.K4.5.10,0,0,0,12630,12630,,0,1002,1002,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row118,2014,118,Soil sample,Knox Mountain,KM 4,5,25,,,,25,1.K4.5.25,0,0,0,14926,14926,,0,994.86,994.86,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row119,2014,119,Soil sample,Knox Mountain,KM 4,5,50,,,,50,1.K4.5.50,0,0,0,14194,14194,,0,998.93,998.93,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row120,2014,120,Soil sample,Knox Mountain,KM 5,1,1,,,1,1,1.K5.1.1,0,0,0,14143,14143,,0,995.38,995.38,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row121,2014,121,Soil sample,Knox Mountain,KM 5,1,2,,,,2,1.K5.1.2,0,0,0,12477,12477,,0,999.43,999.43,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row122,2014,122,Soil sample,Knox Mountain,KM 5,1,10,,,,10,1.K5.1.10,0.3,6,4,15758,15762,,7096.3,999.25,1000.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row123,2014,123,Soil sample,Knox Mountain,KM 5,1,25,,,,25,1.K5.1.25,0.32,6.4,4,14918,14922,,7286.8,999.13,1000.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row124,2014,124,Soil sample,Knox Mountain,KM 5,1,50,,,,50,1.K5.1.50,22.4,448,285,14819,15104,,7131.4,1014.9,1130.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row125,2014,125,Soil sample,Knox Mountain,KM 5,2,1,,,2,1,1.K5.2.1,0,0,0,14517,14517,,0,987.93,987.93,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row126,2014,126,Soil sample,Knox Mountain,KM 5,2,10,,,,10,1.K5.2.10,0,0,0,16147,16147,,0,991.16,991.16,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row127,2014,127,Soil sample,Knox Mountain,KM 5,2,25,,,,25,1.K5.2.25,0,0,0,14938,14938,,0,1000.7,1000.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row128,2014,128,Soil sample,Knox Mountain,KM 5,2,50,,,,50,1.K5.2.50,0,0,0,15140,15140,,0,982.5,982.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row129,2014,129,Soil sample,Knox Mountain,KM 5,3,1,,,3,1,1.K5.3.1,0,0,0,14799,14799,,0,979.87,979.87,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row130,2014,130,Soil sample,Knox Mountain,KM 5,3,10,,,,10,1.K5.3.10,0,0,0,15742,15742,,0,994.55,994.55,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row131,2014,131,Soil sample,Knox Mountain,KM 5,3,25,,,,25,1.K5.3.25,0,0,0,15467,15467,,0,988.56,988.56,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row132,2014,132,Soil sample,Knox Mountain,KM 5,3,50,,,,50,1.K5.3.50,0,0,0,16246,16246,,0,992.12,992.12,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row133,2014,133,Soil sample,Knox Mountain,KM 5,4,1,,,4,1,1.K5.4.1,0,0,0,17333,17333,,0,969.15,969.15,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row134,2014,134,Soil sample,Knox Mountain,KM 5,4,10,,,,10,1.K5.4.10,0,0,0,15038,15038,,0,984.54,984.54,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row135,2014,135,Soil sample,Knox Mountain,KM 5,4,25,,,,25,1.K5.4.25,0.22,4.4,3,16303,16306,,6979.9,992.39,993.49,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row136,2014,136,Soil sample,Knox Mountain,KM 5,4,50,,,,50,1.K5.4.50,0,0,0,15270,15270,,0,979.47,979.47,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row137,2014,137,Soil sample,Knox Mountain,KM 5,5,1,,,5,1,1.K5.5.1,0.09,1.8,1,13428,13429,,8924.8,1070.5,1071.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row138,2014,138,Soil sample,Knox Mountain,KM 5,5,10,,,,10,1.K5.5.10,0,0,0,13654,13654,,0,973.59,973.59,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row139,2014,139,Soil sample,Knox Mountain,KM 5,5,25,,,,25,1.K5.5.25,0,0,0,12651,12651,,0,978.45,978.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2014_row140,2014,140,Soil sample,Knox Mountain,KM 5,5,50,,,,50,1.K5.5.50,11.8,236,128,12713,12841,,6624.7,1071.8,1127.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row2,2015,2,Assay control,,,,,,,,,NTC,0,0,0,15296,15296,5527,0,920.58,920.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row3,2015,3,Assay control,,,,,,,,,NTC,0,0,0,12706,12706,5527,0,920.11,920.11,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row4,2015,4,Assay control,,,,,,,,,NTC,0,0,0,15595,15595,5527,0,923.51,923.51,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row5,2015,5,Assay control,,,,,,,,,Positive,32.3,646,306,10981,11287,5527,7191.9,915.26,1085.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row6,2015,6,Assay control,,,,,,,,,Positive,31.1,622,376,14045,14421,5527,7449.4,912.93,1083.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row7,2015,7,Assay control,,,,,,,,,Positive,31.5,630,290,10670,10960,5527,7101.8,927.1,1090.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row8,2015,8,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,10,,,1,10,2.A.1.10,1.7,34,21,14845,14866,5527,7253.6,937.03,945.95,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row9,2015,9,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,25,,,,25,2.A.1.25,1.1,22,14,14856,14870,5527,6830.6,931.62,937.18,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row10,2015,10,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,50,,,,50,2.A.1.50,0,0,0,15242,15242,5527,0,934.94,934.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row11,2015,11,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,10,,,2,10,2.A.2.10,0.08,1.6,1,15016,15017,5527,6751.4,964.2,964.59,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row12,2015,12,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,25,,,,25,2.A.2.25,0.8,16,9,13185,13194,5527,6818,948.58,952.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row13,2015,13,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,50,,,,50,2.A.2.50,1.4,28,14,11742,11756,5527,6269.8,940.62,946.97,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row14,2015,14,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,10,,,3,10,2.A.3.10,0,0,0,16057,16057,5527,0,939.1,939.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row15,2015,15,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,25,,,,25,2.A.3.25,0,0,0,16641,16641,5527,0,927.44,927.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row16,2015,16,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,50,,,,50,2.A.3.50,0,0,0,18442,18442,5527,0,928.8,928.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row17,2015,17,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,10,,,4,10,2.A.4.10,3.3,66,51,18071,18122,5527,6053.9,929.75,944.18,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row18,2015,18,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,25,,,,25,2.A.4.25,3.9,78,61,18326,18387,5527,6040,913.19,930.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row19,2015,19,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,50,,,,50,2.A.4.50,6.9,138,96,16311,16407,5527,6320,1001.4,1032.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row20,2015,20,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,10,,,5,10,2.A.5.10,8.7,174,105,14201,14306,5527,6401.4,959.12,999.07,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row21,2015,21,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,25,,,,25,2.A.5.25,11.3,226,156,16225,16381,5527,6291.8,955.8,1006.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row22,2015,22,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,50,,,,50,2.A.5.50,21.2,424,307,16847,17154,5527,6250,954.61,1049.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row23,2015,23,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,10,,,1,10,2.T.1.10,0.56,11.2,7,14759,14766,5527,6178.9,929.26,931.75,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row24,2015,24,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,25,,,,25,2.T.1.25,3.4,68,49,16714,16763,5527,6130.9,927.52,942.73,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row25,2015,25,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,50,,,,50,2.T.1.50,0.9,18,13,16188,16201,5527,6313.1,926.05,930.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row26,2015,26,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,10,,,2,10,2.T.2.10,0.9,18,13,16789,16802,5527,6105.2,924.94,928.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row27,2015,27,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,25,,,,25,2.T.2.25,1.4,28,20,16511,16531,5527,6892.2,971.79,978.95,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row28,2015,28,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,50,,,,50,2.T.2.50,0,0,0,13584,13584,5527,0,952.46,952.46,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row29,2015,29,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,10,,,3,10,2.T.3.10,0,0,0,13861,13861,5527,0,936.72,936.72,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row30,2015,30,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,25,,,,25,2.T.3.25,0,0,0,17168,17168,5527,0,944.33,944.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row31,2015,31,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,50,,,,50,2.T.3.50,0,0,0,14055,14055,5527,0,919.1,919.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row32,2015,32,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,10,,,4,10,2.T.4.10,3.1,62,45,17115,17160,5527,6206.8,928.76,942.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row33,2015,33,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,25,,,,25,2.T.4.25,5.4,108,80,17254,17334,5527,6398,921.59,946.86,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row34,2015,34,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,50,,,,50,2.T.4.50,10,200,145,16972,17117,5527,6156,938.77,982.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row35,2015,35,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,10,,,5,10,2.T.5.10,0,0,0,16870,16870,5527,0,962.4,962.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row36,2015,36,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,25,,,,25,2.T.5.25,0.21,4.2,3,17190,17193,5527,7060.9,957.37,958.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row37,2015,37,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,50,,,,50,2.T.5.50,0,0,0,18177,18177,5527,0,958.68,958.68,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row38,2015,38,Soil sample,UBC Okanagan West Campus Lands,Quail,1,10,,,1,10,2.Q.1.10,40.2,804,547,15721,16268,5527,6276.8,992.94,1170.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row39,2015,39,Soil sample,UBC Okanagan West Campus Lands,Quail,1,25,,,,25,2.Q.1.25,71.2,1424,1040,16672,17712,5527,6282.6,992.56,1303.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row40,2015,40,Soil sample,UBC Okanagan West Campus Lands,Quail,1,50,,,,50,2.Q.1.50,31.5,630,471,17332,17803,5527,5994,1067.2,1197.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row41,2015,41,Soil sample,UBC Okanagan West Campus Lands,Quail,2,10,,,2,10,2.Q.2.10,15.3,306,254,19351,19605,5527,5983.5,979.04,1043.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row42,2015,42,Soil sample,UBC Okanagan West Campus Lands,Quail,2,25,,,,25,2.Q.2.25,112,2240,1448,14499,15947,5527,6166.8,1081.2,1543,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row43,2015,43,Soil sample,UBC Okanagan West Campus Lands,Quail,2,50,,,,50,2.Q.2.50,52,1040,649,14375,15024,5527,6331.7,1033.3,1262.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row44,2015,44,Soil sample,UBC Okanagan West Campus Lands,Quail,3,10,,,3,10,2.Q.3.10,32.1,642,453,16357,16810,5527,6180.6,1020.4,1159.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row45,2015,45,Soil sample,UBC Okanagan West Campus Lands,Quail,3,25,,,,25,2.Q.3.25,3.3,66,48,17209,17257,5527,6271.4,954.77,969.55,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row46,2015,46,Soil sample,UBC Okanagan West Campus Lands,Quail,3,50,,,,50,2.Q.3.50,12.8,256,177,16233,16410,5527,6449.5,957.31,1016.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row47,2015,47,Soil sample,UBC Okanagan West Campus Lands,Quail,4,10,,,4,10,2.Q.4.10,0.07,1.4,1,16910,16911,5527,7221.4,933.34,933.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row48,2015,48,Soil sample,UBC Okanagan West Campus Lands,Quail,4,25,,,,25,2.Q.4.25,0.49,9.8,5,12125,12130,5527,6406.7,909.96,912.23,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row49,2015,49,Soil sample,UBC Okanagan West Campus Lands,Quail,4,50,,,,50,2.Q.4.50,0.36,7.2,5,16462,16467,5527,6276.1,934.63,936.25,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row50,2015,50,Soil sample,UBC Okanagan West Campus Lands,Quail,5,10,,,5,10,2.Q.5.10,0,0,0,16839,16839,5527,0,905.69,905.69,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row51,2015,51,Soil sample,UBC Okanagan West Campus Lands,Quail,5,25,,,,25,2.Q.5.25,0,0,0,12439,12439,5527,0,945.37,945.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row52,2015,52,Soil sample,UBC Okanagan West Campus Lands,Quail,5,50,,,,50,2.Q.5.50,0.9,18,9,12077,12086,5527,5857.1,939.28,942.95,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row54,2015,54,Assay control,,,,,,,,,NTC,0,0,0,16615,16615,6112,0,942.4,942.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row55,2015,55,Assay control,,,,,,,,,NTC,0,0,0,14777,14777,6112,0,931.29,931.29,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row56,2015,56,Assay control,,,,,,,,,NTC,0,0,0,14265,14265,6112,0,934.59,934.59,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row57,2015,57,Assay control,,,,,,,,,Positive,32.7,654,375,13290,13665,6112,7487.5,942.94,1122.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row58,2015,58,Assay control,,,,,,,,,Positive,32.7,654,399,14144,14543,6112,7633.8,959.95,1143,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row59,2015,59,Assay control,,,,,,,,,Positive,31.1,622,367,13709,14076,6112,7591.1,939.68,1113.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2015_row60,2015,60,Soil sample,Knox Mountain,KM 2,1,10,,,1,10,2.K2.1.10,0,0,0,11432,11432,6112,0,976.3,976.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row61,2015,61,Soil sample,Knox Mountain,KM 2,1,25,,,,25,2.K2.1.25,0.08,1.6,1,14395,14396,6112,7679.3,968.33,968.79,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row62,2015,62,Soil sample,Knox Mountain,KM 2,1,50,,,,50,2.K2.1.50,0,0,0,15051,15051,6112,0,955.21,955.21,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row63,2015,63,Soil sample,Knox Mountain,KM 2,2,10,,,2,10,2.K2.2.10,0,0,0,15407,15407,6112,0,980.75,980.75,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row64,2015,64,Soil sample,Knox Mountain,KM 2,2,25,,,,25,2.K2.2.25,0,0,0,14879,14879,6112,0,962.01,962.01,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row65,2015,65,Soil sample,Knox Mountain,KM 2,2,50,,,,50,2.K2.2.50,0.16,3.2,2,14993,14995,6112,7294.7,970.89,971.73,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row66,2015,66,Soil sample,Knox Mountain,KM 2,3,10,,,3,10,2.K2.3.10,0,0,0,16535,16535,6112,0,976.36,976.36,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row67,2015,67,Soil sample,Knox Mountain,KM 2,3,25,,,,25,2.K2.3.25,0,0,0,16300,16300,6112,0,974.22,974.22,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row68,2015,68,Soil sample,Knox Mountain,KM 2,3,50,,,,50,2.K2.3.50,0.07,1.4,1,16587,16588,6112,7794.3,984.05,984.46,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row69,2015,69,Soil sample,Knox Mountain,KM 2,4,10,,,4,10,2.K2.4.10,0.07,1.4,1,15686,15687,6112,7690.8,970.02,970.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row70,2015,70,Soil sample,Knox Mountain,KM 2,4,25,,,,25,2.K2.4.25,0,0,0,17135,17135,6112,0,939.57,939.57,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row71,2015,71,Soil sample,Knox Mountain,KM 2,4,50,,,,50,2.K2.4.50,0,0,0,16308,16308,6112,0,974.72,974.72,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row72,2015,72,Soil sample,Knox Mountain,KM 2,5,10,,,5,10,2.K2.5.10,0,0,0,15823,15823,6112,0,974,974,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row73,2015,73,Soil sample,Knox Mountain,KM 2,5,25,,,,25,2.K2.5.25,0,0,0,16139,16139,6112,0,960.05,960.05,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row74,2015,74,Soil sample,Knox Mountain,KM 2,5,50,,,,50,2.K2.5.50,1.1,22,15,16089,16104,6112,6909.6,956.66,962.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row75,2015,75,Soil sample,Knox Mountain,KM 4,1,10,,,1,10,2.K4.1.10,0,0,0,15393,15393,6112,0,972.33,972.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row76,2015,76,Soil sample,Knox Mountain,KM 4,1,25,,,,25,2.K4.1.25,0,0,0,17228,17228,6112,0,970.35,970.35,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row77,2015,77,Soil sample,Knox Mountain,KM 4,1,50,,,,50,2.K4.1.50,0,0,0,16067,16067,6112,0,977.65,977.65,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row78,2015,78,Soil sample,Knox Mountain,KM 4,2,10,,,2,10,2.K4.2.10,0,0,0,16333,16333,6112,0,984.66,984.66,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row79,2015,79,Soil sample,Knox Mountain,KM 4,2,25,,,,25,2.K4.2.25,0,0,0,17187,17187,6112,0,982.39,982.39,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row80,2015,80,Soil sample,Knox Mountain,KM 4,2,50,,,,50,2.K4.2.50,0.07,1.4,1,16443,16444,6112,8110.6,965.32,965.75,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row81,2015,81,Soil sample,Knox Mountain,KM 4,3,10,,,3,10,2.K4.3.10,0,0,0,15925,15925,6112,0,958.78,958.78,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row82,2015,82,Soil sample,Knox Mountain,KM 4,3,25,,,,25,2.K4.3.25,0,0,0,15400,15400,6112,0,968.94,968.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row83,2015,83,Soil sample,Knox Mountain,KM 4,3,50,,,,50,2.K4.3.50,0,0,0,17114,17114,6112,0,962.88,962.88,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row84,2015,84,Soil sample,Knox Mountain,KM 4,4,10,,,4,10,2.K4.4.10,0.08,1.6,1,14513,14514,6112,7619,966.76,967.21,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row85,2015,85,Soil sample,Knox Mountain,KM 4,4,25,,,,25,2.K4.4.25,0,0,0,14707,14707,6112,0,968.34,968.34,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row86,2015,86,Soil sample,Knox Mountain,KM 4,4,50,,,,50,2.K4.4.50,0,0,0,14352,14352,6112,0,968.73,968.73,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row87,2015,87,Soil sample,Knox Mountain,KM 4,5,10,,,5,10,2.K4.5.10,0,0,0,14092,14092,6112,0,976.32,976.32,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row88,2015,88,Soil sample,Knox Mountain,KM 4,5,25,,,,25,2.K4.5.25,0,0,0,14022,14022,6112,0,985.44,985.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row89,2015,89,Soil sample,Knox Mountain,KM 4,5,50,,,,50,2.K4.5.50,0,0,0,14132,14132,6112,0,971.67,971.67,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row90,2015,90,Soil sample,Knox Mountain,KM 5,1,10,,,1,10,2.K5.1.10,0,0,0,17368,17368,6112,0,991.45,991.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row91,2015,91,Soil sample,Knox Mountain,KM 5,1,25,,,,25,2.K5.1.25,0,0,0,16122,16122,6112,0,1008.5,1008.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row92,2015,92,Soil sample,Knox Mountain,KM 5,1,50,,,,50,2.K5.1.50,0.14,2.8,2,16911,16913,6112,7365.5,1009.9,1010.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row93,2015,93,Soil sample,Knox Mountain,KM 5,2,10,,,2,10,2.K5.2.10,0,0,0,16137,16137,6112,0,1007.1,1007.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row94,2015,94,Soil sample,Knox Mountain,KM 5,2,25,,,,25,2.K5.2.25,0,0,0,15283,15283,6112,0,1007.6,1007.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row95,2015,95,Soil sample,Knox Mountain,KM 5,2,50,,,,50,2.K5.2.50,0.08,1.6,1,15595,15596,6112,7731.8,1035,1035.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row96,2015,96,Soil sample,Knox Mountain,KM 5,3,10,,,3,10,2.K5.3.10,0,0,0,17193,17193,6112,0,1004.3,1004.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row97,2015,97,Soil sample,Knox Mountain,KM 5,3,25,,,,25,2.K5.3.25,0,0,0,17203,17203,6112,0,990.73,990.73,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row98,2015,98,Soil sample,Knox Mountain,KM 5,3,50,,,,50,2.K5.3.50,0,0,0,16375,16375,6112,0,976.28,976.28,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row99,2015,99,Soil sample,Knox Mountain,KM 5,4,10,,,4,10,2.K5.4.10,0,0,0,16814,16814,6112,0,985.7,985.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row100,2015,100,Soil sample,Knox Mountain,KM 5,4,25,,,,25,2.K5.4.25,0,0,0,17222,17222,6112,0,991.77,991.77,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row101,2015,101,Soil sample,Knox Mountain,KM 5,4,50,,,,50,2.K5.4.50,0.71,14.2,10,16530,16540,6112,7856.8,982.04,986.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row102,2015,102,Soil sample,Knox Mountain,KM 5,5,10,,,5,10,2.K5.5.10,0,0,0,17450,17450,6112,0,974.23,974.23,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row103,2015,103,Soil sample,Knox Mountain,KM 5,5,25,,,,25,2.K5.5.25,0,0,0,17618,17618,6112,0,982.91,982.91,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2015_row104,2015,104,Soil sample,Knox Mountain,KM 5,5,50,,,,50,2.K5.5.50,3.5,70,51,17259,17310,6112,7487.4,967.94,987.14,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row2,2016,2,Assay control,,,,,,,,,NTC,0,0,0,5160,5160,4301,0,1018.9,1018.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row3,2016,3,Assay control,,,,,,,,,NTC,0,0,0,11737,11737,4301,0,980.3,980.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row4,2016,4,Assay control,,,,,,,,,NTC,0,0,0,11337,11337,4301,0,953.48,953.48,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row5,2016,5,Assay control,,,,,,,,,Positive,30,600,98,3786,3884,4301,6936.3,1008.9,1158.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row6,2016,6,Assay control,,,,,,,,,Positive,33.7,674,310,10667,10977,4301,6432.3,984.94,1138.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row7,2016,7,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,10,,,1,10,3.A.1.10 (ND),0.08,1.6,1,15253,15254,4301,7505.1,1090.4,1090.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row8,2016,8,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,25,,,,25,3.A.1.25,1,20,11,12984,12995,4301,6274.5,1005.5,1009.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row9,2016,9,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,50,,,,50,3.A.1.50,0,0,0,9147,9147,4301,0,998.59,998.59,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row10,2016,10,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,10,,,2,10,3.A.2.10,0,0,0,12382,12382,4301,0,1055.2,1055.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row11,2016,11,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,25,,,,25,3.A.2.25,0.44,8.8,5,13309,13314,4301,6412,989.46,991.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row12,2016,12,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,50,,,,50,3.A.2.50,0.09,1.8,1,13662,13663,4301,6584.7,983.74,984.15,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row13,2016,13,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,10,,,3,10,3.A.3.10,0,0,0,12717,12717,4301,0,974.38,974.38,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row14,2016,14,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,25,,,,25,3.A.3.25,0.47,9.4,5,12476,12481,4301,7177.2,975.84,978.32,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row15,2016,15,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,50,,,,50,3.A.3.50,0,0,0,10623,10623,4301,0,1004.3,1004.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row16,2016,16,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,10,,,4,10,3.A.4.10,0.35,7,3,10186,10189,4301,5467.8,1007.2,1008.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row17,2016,17,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,25,,,,25,3.A.4.25,2.2,44,18,9722,9740,4301,6017.7,1007.7,1016.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row18,2016,18,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,50,,,,50,3.A.4.50,0.13,2.6,1,9100,9101,4301,6838.2,997.35,997.99,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row19,2016,19,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,10,,,5,10,3.A.5.10,0.9,18,7,9200,9207,4301,5857.7,991.27,994.97,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row20,2016,20,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,25,,,,25,3.A.5.25,0.9,18,8,10560,10568,4301,5939.9,986.76,990.51,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row21,2016,21,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,50,,,,50,3.A.5.50,1.2,24,10,9889,9899,4301,6250.6,997.52,1002.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row22,2016,22,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,10,,,1,10,3.T.1.10,0.11,2.2,1,10498,10499,4301,6026.7,980.14,980.62,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row23,2016,23,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,25,,,,25,3.T.1.25,1.3,26,12,11174,11186,4301,5888.1,977.12,982.39,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row24,2016,24,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,50,,,,50,3.T.1.50,1,20,8,9703,9711,4301,6538.2,1004,1008.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row25,2016,25,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,10,,,2,10,3.T.2.10,1.2,24,9,8520,8529,4301,6198.8,1005.3,1010.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row26,2016,26,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,25,,,,25,3.T.2.25,0.23,4.6,2,10220,10222,4301,4781.1,994.76,995.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row27,2016,27,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,50,,,,50,3.T.2.50,0.34,6.8,3,10306,10309,4301,5668.2,992.97,994.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row28,2016,28,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,10,,,3,10,3.T.3.10,0,0,0,12271,12271,4301,0,987.66,987.66,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row29,2016,29,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,25,,,,25,3.T.3.25,0,0,0,10167,10167,4301,0,979.37,979.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row30,2016,30,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,50,,,,50,3.T.3.50,0,0,0,10324,10324,4301,0,990.87,990.87,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row31,2016,31,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,10,,,4,10,3.T.4.10,0,0,0,10059,10059,4301,0,978.71,978.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row32,2016,32,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,25,,,,25,3.T.4.25,0,0,0,11845,11845,4301,0,974.58,974.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row33,2016,33,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,50,,,,50,3.T.4.50,0,0,0,11070,11070,4301,0,974.54,974.54,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row34,2016,34,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,10,,,5,10,3.T.5.10,0.2,4,2,11518,11520,4301,5656.5,969.31,970.13,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row35,2016,35,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,25,,,,25,3.T.5.25,0.29,5.8,3,12016,12019,4301,5589.7,969.98,971.13,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row36,2016,36,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,50,,,,50,3.T.5.50,0.2,4,2,11751,11753,4301,5502.9,976.85,977.62,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row37,2016,37,Soil sample,UBC Okanagan West Campus Lands,Quail,1,10,,,1,10,3.Q.1.10,0.9,18,8,9942,9950,4301,5808.2,959.92,963.81,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row38,2016,38,Soil sample,UBC Okanagan West Campus Lands,Quail,1,25,,,,25,3.Q.1.25,9.3,186,82,10289,10371,4301,6018.3,1007.5,1047.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row39,2016,39,Soil sample,UBC Okanagan West Campus Lands,Quail,1,50,,,,50,3.Q.1.50,7.9,158,65,9652,9717,4301,5649.9,988.73,1019.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row40,2016,40,Soil sample,UBC Okanagan West Campus Lands,Quail,2,10,,,2,10,3.Q.2.10,4,80,24,7090,7114,4301,5463.1,969.12,984.28,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row41,2016,41,Soil sample,UBC Okanagan West Campus Lands,Quail,2,25,,,,25,3.Q.2.25,0.8,16,6,8879,8885,4301,5289.7,974.37,977.29,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row42,2016,42,Soil sample,UBC Okanagan West Campus Lands,Quail,2,50,,,,50,3.Q.2.50,3.3,66,26,9323,9349,4301,5993,984.88,998.81,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row43,2016,43,Soil sample,UBC Okanagan West Campus Lands,Quail,3,10,,,3,10,3.Q.3.10,0.12,2.4,1,9590,9591,4301,5483.4,969.87,970.34,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row44,2016,44,Soil sample,UBC Okanagan West Campus Lands,Quail,3,25,,,,25,3.Q.3.25,0.6,12,6,11055,11061,4301,5867.3,990.15,992.79,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row45,2016,45,Soil sample,UBC Okanagan West Campus Lands,Quail,3,50,,,,50,3.Q.3.50,8.4,168,69,9612,9681,4301,5815.7,979.34,1013.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row46,2016,46,Soil sample,UBC Okanagan West Campus Lands,Quail,4,10,,,4,10,3.Q.4.10,0.55,11,5,10756,10761,4301,7071.7,1030.4,1033.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row47,2016,47,Soil sample,UBC Okanagan West Campus Lands,Quail,4,25,,,,25,3.Q.4.25,0,0,0,11287,11287,4301,0,1007,1007,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row48,2016,48,Soil sample,UBC Okanagan West Campus Lands,Quail,4,50,,,,50,3.Q.4.50,0,0,0,12402,12402,4301,0,1002.7,1002.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row49,2016,49,Soil sample,UBC Okanagan West Campus Lands,Quail,5,10,,,5,10,3.Q.5.10,0,0,0,9912,9912,4301,0,1005.5,1005.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row50,2016,50,Soil sample,UBC Okanagan West Campus Lands,Quail,5,25,,,,25,3.Q.5.25,0,0,0,11485,11485,4301,0,1000.2,1000.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row51,2016,51,Soil sample,UBC Okanagan West Campus Lands,Quail,5,50,,,,50,3.Q.5.50,0.8,16,8,11175,11183,4301,5708.5,1007.2,1010.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row53,2016,53,Assay control,,,,,,,,,NTC,0,0,0,12942,12942,6801,0,1238.7,1238.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row54,2016,54,Assay control,,,,,,,,,NTC,0,0,0,14676,14676,6801,0,1226.2,1226.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row55,2016,55,Assay control,,,,,,,,,NTC,0,0,0,13473,13473,6801,0,1223.4,1223.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row56,2016,56,Assay control,,,,,,,,,Positive 1,29.6,592,368,14465,14833,6801,9075.6,1198.8,1394.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row57,2016,57,Assay control,,,,,,,,,Positive 2,30,600,339,13142,13481,6801,9121.5,1224.8,1423.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2016_row58,2016,58,Soil sample,Knox Mountain,KM 2,1,10,,,1,10,3.K2.1.10,0,0,0,5379,5379,6801,0,1131.1,1131.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row59,2016,59,Soil sample,Knox Mountain,KM 2,1,25,,,,25,3.K2.1.25,0,0,0,10388,10388,6801,0,1290.4,1290.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row60,2016,60,Soil sample,Knox Mountain,KM 2,1,50,,,,50,3.K2.1.50,0,0,0,9909,9909,6801,0,1291.1,1291.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row61,2016,61,Soil sample,Knox Mountain,KM 2,2,10,,,2,10,3.K2.2.10,0,0,0,9082,9082,6801,0,1275.6,1275.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row62,2016,62,Soil sample,Knox Mountain,KM 2,2,10,,,,10,3.K2.2.10 (Repeat),0,0,0,10905,10905,6801,0,1275.7,1275.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row63,2016,63,Soil sample,Knox Mountain,KM 2,2,25,,,,25,3.K2.2.25,0,0,0,10855,10855,6801,0,1297.1,1297.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row64,2016,64,Soil sample,Knox Mountain,KM 2,2,50,,,,50,3.K2.2.50,0,0,0,9638,9638,6801,0,1296.7,1296.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row65,2016,65,Soil sample,Knox Mountain,KM 2,3,10,,,3,10,3.K2.3.10,0,0,0,11026,11026,6801,0,1290.7,1290.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row66,2016,66,Soil sample,Knox Mountain,KM 2,3,25,,,,25,3.K2.3.25,0,0,0,10423,10423,6801,0,1278.7,1278.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row67,2016,67,Soil sample,Knox Mountain,KM 2,3,50,,,,50,3.K2.3.50,0,0,0,11097,11097,6801,0,1253.6,1253.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row68,2016,68,Soil sample,Knox Mountain,KM 2,4,10,,,4,10,3.K2.4.10,0,0,0,10163,10163,6801,0,1291.3,1291.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row69,2016,69,Soil sample,Knox Mountain,KM 2,4,25,,,,25,3.K2.4.25,0,0,0,9795,9795,6801,0,1281.8,1281.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row70,2016,70,Soil sample,Knox Mountain,KM 2,4,50,,,,50,3.K2.4.50,0,0,0,10373,10373,6801,0,1278.8,1278.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row71,2016,71,Soil sample,Knox Mountain,KM 2,5,10,,,5,10,3.K2.5.10,0,0,0,10179,10179,6801,0,1280.8,1280.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row72,2016,72,Soil sample,Knox Mountain,KM 2,5,25,,,,25,3.K2.5.25,0,0,0,11230,11230,6801,0,1296.7,1296.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row73,2016,73,Soil sample,Knox Mountain,KM 2,5,50,,,,50,3.K2.5.50,0,0,0,10267,10267,6801,0,1290.2,1290.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row74,2016,74,Soil sample,Knox Mountain,KM 4,1,25,,,1,25,3.K4.1.25,0,0,0,13666,13666,6801,0,1260.1,1260.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row75,2016,75,Soil sample,Knox Mountain,KM 4,1,50,,,,50,3.K4.1.50,0,0,0,12412,12412,6801,0,1256.9,1256.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row76,2016,76,Soil sample,Knox Mountain,KM 4,2,10,,,2,10,3.K4.2.10 (ND),0,0,0,12820,12820,6801,0,1374,1374,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row77,2016,77,Soil sample,Knox Mountain,KM 4,2,25,,,,25,3.K4.2.25,0,0,0,13240,13240,6801,0,1267.8,1267.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row78,2016,78,Soil sample,Knox Mountain,KM 4,2,50,,,,50,3.K4.2.50,0,0,0,13219,13219,6801,0,1253.3,1253.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row79,2016,79,Soil sample,Knox Mountain,KM 4,3,10,,,3,10,3.K4.3.10,0,0,0,12277,12277,6801,0,1291.4,1291.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row80,2016,80,Soil sample,Knox Mountain,KM 4,3,25,,,,25,3.K4.3.25,0,0,0,13713,13713,6801,0,1265.9,1265.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row81,2016,81,Soil sample,Knox Mountain,KM 4,3,50,,,,50,3.K4.3.50,0,0,0,14247,14247,6801,0,1236,1236,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row82,2016,82,Soil sample,Knox Mountain,KM 4,4,10,,,4,10,3.K4.4.10,0,0,0,11768,11768,6801,0,1248.3,1248.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row83,2016,83,Soil sample,Knox Mountain,KM 4,4,25,,,,25,3.K4.4.25,0,0,0,12399,12399,6801,0,1246.4,1246.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row84,2016,84,Soil sample,Knox Mountain,KM 4,4,50,,,,50,3.K4.4.50,0,0,0,13175,13175,6801,0,1256.2,1256.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row85,2016,85,Soil sample,Knox Mountain,KM 4,5,10,,,5,10,3.K4.5.10,0,0,0,12864,12864,6801,0,1249.4,1249.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row86,2016,86,Soil sample,Knox Mountain,KM 4,5,25,,,,25,3.K4.5.25,0,0,0,12918,12918,6801,0,1248.9,1248.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row87,2016,87,Soil sample,Knox Mountain,KM 4,5,50,,,,50,3.K4.5.50,0,0,0,12012,12012,6801,0,1254.7,1254.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row88,2016,88,Soil sample,Knox Mountain,KM 5,1,10,,,1,10,3.K5.1.10,0,0,0,11187,11187,6801,0,1252.7,1252.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row89,2016,89,Soil sample,Knox Mountain,KM 5,1,25,,,,25,3.K5.1.25,0,0,0,12525,12525,6801,0,1233.7,1233.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row90,2016,90,Soil sample,Knox Mountain,KM 5,1,50,,,,50,3.K5.1.50,0,0,0,12807,12807,6801,0,1231.2,1231.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row91,2016,91,Soil sample,Knox Mountain,KM 5,2,10,,,2,10,3.K5.2.10,0,0,0,6135,6135,6801,0,1226.9,1226.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row92,2016,92,Soil sample,Knox Mountain,KM 5,2,25,,,,25,3.K5.2.25,0,0,0,12120,12120,6801,0,1251.7,1251.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row93,2016,93,Soil sample,Knox Mountain,KM 5,2,50,,,,50,3.K5.2.50,0,0,0,11933,11933,6801,0,1210.4,1210.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row94,2016,94,Soil sample,Knox Mountain,KM 5,3,10,,,3,10,3.K5.3.10,0,0,0,12116,12116,6801,0,1225,1225,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row95,2016,95,Soil sample,Knox Mountain,KM 5,3,25,,,,25,3.K5.3.25,0,0,0,12358,12358,6801,0,1232.4,1232.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row96,2016,96,Soil sample,Knox Mountain,KM 5,3,50,,,,50,3.K5.3.50,0,0,0,13187,13187,6801,0,1252.5,1252.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row97,2016,97,Soil sample,Knox Mountain,KM 5,4,10,,,4,10,3.K5.4.10,0,0,0,11588,11588,6801,0,984.9,984.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row98,2016,98,Soil sample,Knox Mountain,KM 5,4,25,,,,25,3.K5.4.25,0,0,0,13053,13053,6801,0,1228.9,1228.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row99,2016,99,Soil sample,Knox Mountain,KM 5,4,50,,,,50,3.K5.4.50,3.8,76,43,13270,13313,6801,8903.7,1227.7,1252.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row100,2016,100,Soil sample,Knox Mountain,KM 5,5,10,,,5,10,3.K5.5.10,0,0,0,10647,10647,6801,0,1232.2,1232.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row101,2016,101,Soil sample,Knox Mountain,KM 5,5,25,,,,25,3.K5.5.25,0,0,0,11622,11622,6801,0,1233.3,1233.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2016_row102,2016,102,Soil sample,Knox Mountain,KM 5,5,50,,,,50,3.K5.5.50,0,0,0,12389,12389,6801,0,1238.9,1238.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row2,2017,2,Assay control,,,,,,,,,NTC,0,0,0,16285,16285,5328,0,954.51,954.51,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row3,2017,3,Assay control,,,,,,,,,NTC,0,0,0,17218,17218,5328,0,941.98,941.98,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row4,2017,4,Assay control,,,,,,,,,NTC,0,0,0,16299,16299,5328,0,940.93,940.93,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row5,2017,5,Assay control,,,,,,,,,Positive 1,35.7,714,228,7393,7621,5328,7543.4,950.41,1147.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row6,2017,6,Assay control,,,,,,,,,Positive 2,4.8,96,27,6557,6584,5328,7520.5,949.4,976.35,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row7,2017,7,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,10,,,1,10,4.A.1.10,2.7,54,37,15870,15907,5328,7380.9,995.03,1009.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row8,2017,8,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,25,,,,25,4.A.1.25,0.57,11.4,8,16480,16488,5328,7599.4,998.22,1001.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row9,2017,9,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,1,50,,,,50,4.A.1.50,0.22,4.4,3,15778,15781,5328,7745.4,1001.3,1002.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row10,2017,10,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,10,,,2,10,4.A.2.10,1.9,38,25,15653,15678,5328,7049.1,977.86,987.54,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row11,2017,11,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,25,,,,25,4.A.2.25,0.14,2.8,2,16522,16524,5328,8250.7,985.83,986.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row12,2017,12,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,2,50,,,,50,4.A.2.50,0.7,14,10,16805,16815,5328,7035.1,993.94,997.53,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row13,2017,13,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,10,,,3,10,4.A.3.10,0,0,0,18525,18525,5328,0,992.94,992.94,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row14,2017,14,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,25,,,,25,4.A.3.25,0,0,0,16652,16652,5328,0,975.49,975.49,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row15,2017,15,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,3,50,,,,50,4.A.3.50,0,0,0,15784,15784,5328,0,965.56,965.56,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row16,2017,16,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,10,,,4,10,4.A.4.10,0.14,2.8,2,16669,16671,5328,7351.3,983.73,984.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row17,2017,17,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,25,,,,25,4.A.4.25,0,0,0,16346,16346,5328,0,1000.1,1000.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row18,2017,18,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,4,50,,,,50,4.A.4.50,0.14,2.8,2,16279,16281,5328,6513.7,999.81,1000.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row19,2017,19,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,10,,,5,10,4.A.5.10,0.66,13.2,7,12548,12555,5328,6880.5,998.82,1002.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row20,2017,20,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,25,,,,25,4.A.5.25,0.21,4.2,3,16824,16827,5328,6599.8,984.82,985.82,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row21,2017,21,Soil sample,UBC Okanagan West Campus Lands,Aberdeen,5,50,,,,50,4.A.5.50,0.72,14.4,10,16374,16384,5328,6881.3,975.02,978.63,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row22,2017,22,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,10,,,1,10,4.T.1.10,0.42,8.4,6,16930,16936,5328,7289.9,959.35,961.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row23,2017,23,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,25,,,,25,4.T.1.25,0.33,6.6,4,14429,14433,5328,6887.5,974.29,975.93,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row24,2017,24,Soil sample,UBC Okanagan West Campus Lands,Tutt,1,50,,,,50,4.T.1.50,0.23,4.6,3,15036,15039,5328,7354.1,991.3,992.57,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row25,2017,25,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,10,,,2,10,4.T.2.10,0.16,3.2,2,15109,15111,5328,7744.4,982.58,983.48,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row26,2017,26,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,25,,,,25,4.T.2.25,0.25,5,3,14210,14213,5328,7119.6,984.99,986.28,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row27,2017,27,Soil sample,UBC Okanagan West Campus Lands,Tutt,2,50,,,,50,4.T.2.50,0.3,6,4,15906,15910,5328,7399.5,983.54,985.15,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row28,2017,28,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,10,,,3,10,4.T.3.10,0.16,3.2,2,15005,15007,5328,6568.9,977.63,978.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row29,2017,29,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,25,,,,25,4.T.3.25,0.08,1.6,1,15171,15172,5328,6415.3,964.6,964.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row30,2017,30,Soil sample,UBC Okanagan West Campus Lands,Tutt,3,50,,,,50,4.T.3.50,0,0,0,15484,15484,5328,0,967.57,967.57,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row31,2017,31,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,10,,,4,10,4.T.4.10,0.08,1.6,1,14757,14758,5328,7529,950.2,950.64,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row32,2017,32,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,25,,,,25,4.T.4.25,0.9,18,12,15942,15954,5328,6542.8,953.51,957.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row33,2017,33,Soil sample,UBC Okanagan West Campus Lands,Tutt,4,50,,,,50,4.T.4.50,0.46,9.2,6,15368,15374,5328,6991.4,967.03,969.38,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row34,2017,34,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,10,,,5,10,4.T.5.10,0,0,0,15290,15290,5328,0,963.87,963.87,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row35,2017,35,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,25,,,,25,4.T.5.25,0,0,0,15318,15318,5328,0,962.65,962.65,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row36,2017,36,Soil sample,UBC Okanagan West Campus Lands,Tutt,5,50,,,,50,4.T.5.50,0,0,0,16171,16171,5328,0,962.83,962.83,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row37,2017,37,Soil sample,UBC Okanagan West Campus Lands,Quail,1,10,,,1,10,4.Q.1.10,0.07,1.4,1,16242,16243,5328,7055.1,961.43,961.81,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row38,2017,38,Soil sample,UBC Okanagan West Campus Lands,Quail,1,25,,,,25,4.Q.1.25,0.58,11.6,8,16171,16179,5328,7239.8,948.14,951.25,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row39,2017,39,Soil sample,UBC Okanagan West Campus Lands,Quail,1,50,,,,50,4.Q.1.50,1.3,26,16,14433,14449,5328,6852.7,948.55,955.09,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row40,2017,40,Soil sample,UBC Okanagan West Campus Lands,Quail,2,10,,,2,10,4.Q.2.10,1.2,24,14,14020,14034,5328,6902.6,971.38,977.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row41,2017,41,Soil sample,UBC Okanagan West Campus Lands,Quail,2,25,,,,25,4.Q.2.25,0.48,9.6,6,14744,14750,5328,6151.3,950.47,952.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row42,2017,42,Soil sample,UBC Okanagan West Campus Lands,Quail,2,50,,,,50,4.Q.2.50,0.08,1.6,1,14852,14853,5328,7603.3,945.45,945.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row43,2017,43,Soil sample,UBC Okanagan West Campus Lands,Quail,3,10,,,3,10,4.Q.3.10,0.25,5,3,14118,14121,5328,6472.3,954.13,955.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row44,2017,44,Soil sample,UBC Okanagan West Campus Lands,Quail,3,25,,,,25,4.Q.3.25,0.25,5,3,13957,13960,5328,6055.4,972.04,973.13,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row45,2017,45,Soil sample,UBC Okanagan West Campus Lands,Quail,3,50,,,,50,4.Q.3.50,0.38,7.6,4,12410,12414,5328,6960.3,959.51,961.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row46,2017,46,Soil sample,UBC Okanagan West Campus Lands,Quail,4,10,,,4,10,4.Q.4.10,0,0,0,14632,14632,5328,0,961.2,961.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row47,2017,47,Soil sample,UBC Okanagan West Campus Lands,Quail,4,25,,,,25,4.Q.4.25,0,0,0,14121,14121,5328,0,962.4,962.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row48,2017,48,Soil sample,UBC Okanagan West Campus Lands,Quail,4,50,,,,50,4.Q.4.50,0,0,0,13603,13603,5328,0,957.09,957.09,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row49,2017,49,Soil sample,UBC Okanagan West Campus Lands,Quail,5,10,,,5,10,4.Q.5.10,0.16,3.2,2,15168,15170,5328,6667.6,957.61,958.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row50,2017,50,Soil sample,UBC Okanagan West Campus Lands,Quail,5,25,,,,25,4.Q.5.25,1.3,26,17,15711,15728,5328,6576,961.69,967.76,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row51,2017,51,Soil sample,UBC Okanagan West Campus Lands,Quail,5,50,,,,50,4.Q.5.50,0,0,0,15095,15095,5328,0,948.06,948.06,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row53,2017,53,Assay control,,,,,,,,,NTC,0,0,0,15296,15296,5527,0,920.58,920.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row54,2017,54,Assay control,,,,,,,,,NTC,0,0,0,12706,12706,5527,0,920.11,920.11,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row55,2017,55,Assay control,,,,,,,,,NTC,0,0,0,15595,15595,5527,0,923.51,923.51,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row56,2017,56,Assay control,,,,,,,,,Positive,32.3,646,306,10981,11287,5527,7191.9,915.26,1085.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row57,2017,57,Assay control,,,,,,,,,Positive,31.1,622,376,14045,14421,5527,7449.4,912.93,1083.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row58,2017,58,Assay control,,,,,,,,,Positive,31.5,630,290,10670,10960,5527,7101.8,927.1,1090.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2017_row59,2017,59,Soil sample,Knox Mountain,KM2,1,10,,,1,10,4.K2.1.10,0.3,6,4,15665,15669,5527,6969,967.88,969.41,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row60,2017,60,Soil sample,Knox Mountain,KM2,1,25,,,,25,4.K2.1.25,1,20,14,16049,16063,5527,6597.8,936.06,940.99,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row61,2017,61,Soil sample,Knox Mountain,KM2,1,50,,,,50,4.K2.1.50,0.33,6.6,4,14408,14412,5527,7388.4,944.9,946.69,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row62,2017,62,Soil sample,Knox Mountain,KM2,2,10,,,2,10,4.K2.2.10,2.3,46,30,15254,15284,5527,6579.4,925.31,936.41,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row63,2017,63,Soil sample,Knox Mountain,KM2,2,25,,,,25,4.K2.2.25,2.1,42,31,16956,16987,5527,6482.8,903.61,913.79,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row64,2017,64,Soil sample,Knox Mountain,KM2,2,50,,,,50,4.K2.2.50,0,0,0,15750,15750,5527,0,902.96,902.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row65,2017,65,Soil sample,Knox Mountain,KM2,3,10,,,3,10,4.K2.3.10,0,0,0,16572,16572,5527,0,904.96,904.96,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row66,2017,66,Soil sample,Knox Mountain,KM2,3,25,,,,25,4.K2.3.25,0,0,0,16805,16805,5527,0,899.71,899.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row67,2017,67,Soil sample,Knox Mountain,KM2,3,50,,,,50,4.K2.3.50,0,0,0,15928,15928,5527,0,947.93,947.93,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row68,2017,68,Soil sample,Knox Mountain,KM2,4,10,,,4,10,4.K2.4.10,0,0,0,12898,12898,5527,0,961.77,961.77,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row69,2017,69,Soil sample,Knox Mountain,KM2,4,25,,,,25,4.K2.4.25,0,0,0,15400,15400,5527,0,940.72,940.72,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row70,2017,70,Soil sample,Knox Mountain,KM2,4,50,,,,50,4.K2.4.50,0.07,1.4,1,16202,16203,5527,6512.9,927.95,928.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row71,2017,71,Soil sample,Knox Mountain,KM2,5,10,,,5,10,4.K2.5.10,0,0,0,14944,14944,5527,0,924.82,924.82,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row72,2017,72,Soil sample,Knox Mountain,KM2,5,25,,,,25,4.K2.5.25,0,0,0,15453,15453,5527,0,914.16,914.16,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row73,2017,73,Soil sample,Knox Mountain,KM2,5,50,,,,50,4.K2.5.50,0,0,0,16372,16372,5527,0,913.77,913.77,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row74,2017,74,Soil sample,Knox Mountain,KM4,1,10,,,1,10,4.K4.1.10,0,0,0,17639,17639,5527,0,906.24,906.24,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row75,2017,75,Soil sample,Knox Mountain,KM4,1,25,,,,25,4.K4.1.25,0.08,1.6,1,14267,14268,5527,7207.8,930.82,931.26,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row76,2017,76,Soil sample,Knox Mountain,KM4,1,50,,,,50,4.K4.1.50,0,0,0,14256,14256,5527,0,953.64,953.64,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row77,2017,77,Soil sample,Knox Mountain,KM4,2,10,,,2,10,4.K4.2.10,0,0,0,14760,14760,5527,0,941.33,941.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row78,2017,78,Soil sample,Knox Mountain,KM4,2,25,,,,25,4.K4.2.25,0,0,0,16255,16255,5527,0,925.55,925.55,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row79,2017,79,Soil sample,Knox Mountain,KM4,2,50,,,,50,4.K4.2.50,0,0,0,13719,13719,5527,0,924.37,924.37,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row80,2017,80,Soil sample,Knox Mountain,KM4,3,10,,,3,10,4.K4.3.10,0,0,0,15282,15282,5527,0,925.51,925.51,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row81,2017,81,Soil sample,Knox Mountain,KM4,3,25,,,,25,4.K4.3.25,2,40,28,16142,16170,5527,6401.8,926.14,935.62,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row82,2017,82,Soil sample,Knox Mountain,KM4,3,50,,,,50,4.K4.3.50,0.45,9,6,15816,15822,5527,6224.8,914.21,916.22,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row83,2017,83,Soil sample,Knox Mountain,KM4,4,10,,,4,10,4.K4.4.10,0,0,0,14972,14972,5527,0,969.74,969.74,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row84,2017,84,Soil sample,Knox Mountain,KM4,4,25,,,,25,4.K4.4.25,0,0,0,14961,14961,5527,0,966.54,966.54,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row85,2017,85,Soil sample,Knox Mountain,KM4,4,50,,,,50,4.K4.4.50,0,0,0,14716,14716,5527,0,953.79,953.79,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row86,2017,86,Soil sample,Knox Mountain,KM4,5,10,,,5,10,4.K4.5.10,1,20,13,15347,15360,5527,6681.5,958.28,963.12,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row87,2017,87,Soil sample,Knox Mountain,KM4,5,25,,,,25,4.K4.5.25,0.25,5,3,14260,14263,5527,6325,972.76,973.89,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row88,2017,88,Soil sample,Knox Mountain,KM4,5,50,,,,50,4.K4.5.50,0.23,4.6,3,15173,15176,5527,7170.5,932.42,933.65,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row89,2017,89,Soil sample,Knox Mountain,KM5,1,10,,,1,10,4.K5.1.10,0,0,0,14919,14919,5527,0,927.23,927.23,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row90,2017,90,Soil sample,Knox Mountain,KM5,1,25,,,,25,4.K5.1.25,0,0,0,16019,16019,5527,0,917.23,917.23,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row91,2017,91,Soil sample,Knox Mountain,KM5,1,50,,,,50,4.K5.1.50,0,0,0,15169,15169,5527,0,967.45,967.45,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row92,2017,92,Soil sample,Knox Mountain,KM5,2,10,,,2,10,4.K5.2.10,0,0,0,13791,13791,5527,0,952.26,952.26,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row93,2017,93,Soil sample,Knox Mountain,KM5,2,25,,,,25,4.K5.2.25,0,0,0,14021,14021,5527,0,937.29,937.29,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row94,2017,94,Soil sample,Knox Mountain,KM5,2,50,,,,50,4.K5.2.50,0,0,0,14680,14680,5527,0,934.4,934.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row95,2017,95,Soil sample,Knox Mountain,KM5,3,10,,,3,10,4.K5.3.10,0,0,0,14670,14670,5527,0,914.61,914.61,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row96,2017,96,Soil sample,Knox Mountain,KM5,3,25,,,,25,4.K5.3.25,0,0,0,15705,15705,5527,0,930.68,930.68,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row97,2017,97,Soil sample,Knox Mountain,KM5,3,50,,,,50,4.K5.3.50,0,0,0,16133,16133,5527,0,936.55,936.55,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row98,2017,98,Soil sample,Knox Mountain,KM5,4,10,,,4,10,4.K5.4.10,0,0,0,16492,16492,5527,0,928.33,928.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row99,2017,99,Soil sample,Knox Mountain,KM5,4,25,,,,25,4.K5.4.25,0,0,0,15187,15187,5527,0,957.26,957.26,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2017_row100,2017,100,Soil sample,Knox Mountain,KM5,4,50,,,,50,4.K5.4.50,0,0,0,14348,14348,5527,0,968.75,968.75,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row2,2022,2,Assay control,,,,,,,,,NTC,0.07,1.4,1,17191,17192,,9527.9,1123.3,1123.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row3,2022,3,Assay control,,,,,,,,,NTC,0,0,0,13812,13812,,0,1115.5,1115.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row4,2022,4,Assay control,,,,,,,,,NTC,0.06,1.2,1,18137,18138,,8735,1100.4,1100.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row5,2022,5,Assay control,,,,,,,,,POSITIVE,425,8500,4152,9538,13690,,8342.9,1101.4,3297.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row6,2022,6,Assay control,,,,,,,,,POSITIVE,451,9020,4976,10663,15639,,7969.7,1071.4,3266.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row7,2022,7,Assay control,,,,,,,,,POSITIVE,419,8380,4669,10907,15576,,8354.9,1116.4,3286.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2022_row8,2022,8,Soil sample,Knox Mountain,KM 2,,,1,,,1,KM2 1,0.08,1.6,1,14978,14979,,8994.6,1124.2,1124.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row9,2022,9,Soil sample,Knox Mountain,KM 2,,,2,,,2,KM2 2,0,0,0,15088,15088,,0,1137.6,1137.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row10,2022,10,Soil sample,Knox Mountain,KM 2,,,3,,,3,KM2 3,0.08,1.6,1,15071,15072,,6809.8,1130.3,1130.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row11,2022,11,Soil sample,Knox Mountain,KM 2,,,4,,,4,KM2 4,0,0,0,12465,12465,,0,1115.5,1115.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row12,2022,12,Soil sample,Knox Mountain,KM 2,,,5,,,5,KM2 5,0,0,0,15131,15131,,0,1139.3,1139.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row13,2022,13,Soil sample,Knox Mountain,KM 2,,,6,,,6,KM2 6,0.22,4.4,3,16369,16372,,6901.4,1114.8,1115.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row14,2022,14,Soil sample,Knox Mountain,KM 2,,,7,,,7,KM2 7,0,0,0,15805,15805,,0,1116.5,1116.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row15,2022,15,Soil sample,Knox Mountain,KM 2,,,8,,,8,KM2 8,0.08,1.6,1,15630,15631,,8611.1,1102.7,1103.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row16,2022,16,Soil sample,Knox Mountain,KM 2,,,9,,,9,KM2 9,0,0,0,17064,17064,,0,1101.8,1101.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row17,2022,17,Soil sample,Knox Mountain,KM 2,,,10,,,10,KM2 10,0,0,0,15534,15534,,0,1088.4,1088.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row18,2022,18,Soil sample,Knox Mountain,KM 4,,,1,,,1,KM4 1,0,0,0,15915,15915,,0,1166.3,1166.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row19,2022,19,Soil sample,Knox Mountain,KM 4,,,2,,,2,KM4 2,0,0,0,14915,14915,,0,1141.1,1141.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row20,2022,20,Soil sample,Knox Mountain,KM 4,,,3,,,3,KM4 3,0,0,0,14571,14571,,0,1126.5,1126.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row21,2022,21,Soil sample,Knox Mountain,KM 4,,,4,,,4,KM4 4,1.6,32,22,16043,16065,,7783.3,1133.1,1142.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row22,2022,22,Soil sample,Knox Mountain,KM 4,,,5,,,5,KM4 5,0.07,1.4,1,15835,15836,,8394.1,1165.6,1166.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row23,2022,23,Soil sample,Knox Mountain,KM 4,,,6,,,6,KM4 6,0,0,0,17928,17928,,0,1112.1,1112.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row24,2022,24,Soil sample,Knox Mountain,KM 4,,,7,,,7,KM4 7,0,0,0,15802,15802,,0,1125.3,1125.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row25,2022,25,Soil sample,Knox Mountain,KM 4,,,8,,,8,KM4 8,0,0,0,16307,16307,,0,1118.3,1118.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row26,2022,26,Soil sample,Knox Mountain,KM 4,,,9,,,9,KM4 9,0.15,3,2,15752,15754,,8709.8,1121.5,1122.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row27,2022,27,Soil sample,Knox Mountain,KM 4,,,10,,,10,KM4 10,0,0,0,14818,14818,,0,1123.8,1123.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row28,2022,28,Soil sample,Knox Mountain,KM 5,,,1,,,1,KM5 1,0.07,1.4,1,16089,16090,,8290.4,1097.9,1098.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row29,2022,29,Soil sample,Knox Mountain,KM 5,,,2,,,2,KM5 2,0,0,0,16635,16635,,0,1108.8,1108.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row30,2022,30,Soil sample,Knox Mountain,KM 5,,,3,,,3,KM5 3,7.8,156,101,15268,15369,,7405.7,1115.1,1156.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row31,2022,31,Soil sample,Knox Mountain,KM 5,,,4,,,4,KM5 4,0,0,0,12291,12291,,0,1093.1,1093.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row32,2022,32,Soil sample,Knox Mountain,KM 5,,,5,,,5,KM5 5,0,0,0,14883,14883,,0,1108.9,1108.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row33,2022,33,Soil sample,Knox Mountain,KM 5,,,6,,,6,KM5 6,0,0,0,14633,14633,,0,1113,1113,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row34,2022,34,Soil sample,Knox Mountain,KM 5,,,7,,,7,KM5 7,0.07,1.4,1,16229,16230,,8610,1112.7,1113.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row35,2022,35,Soil sample,Knox Mountain,KM 5,,,8,,,8,KM5 8,0,0,0,15244,15244,,0,1110.1,1110.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row36,2022,36,Soil sample,Knox Mountain,KM 5,,,9,,,9,KM5 9,0,0,0,15964,15964,,0,1120.2,1120.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row37,2022,37,Soil sample,Knox Mountain,KM 5,,,10,,,10,KM5 10,8,160,114,16765,16879,,7482.9,1113.7,1156.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row38,2022,38,Soil sample,UBC Okanagan West Campus Lands,Quail,,,1,,,1,QUAIL 1,0.15,3,2,16074,16076,,8376.2,1087.3,1088.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row39,2022,39,Soil sample,UBC Okanagan West Campus Lands,Quail,,,2,,,2,QUAIL 2,0,0,0,16285,16285,,0,1074.6,1074.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row40,2022,40,Soil sample,UBC Okanagan West Campus Lands,Quail,,,3,,,3,QUAIL 3,1.1,22,16,16789,16805,,7332.4,1082.6,1088.5,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row41,2022,41,Soil sample,UBC Okanagan West Campus Lands,Quail,,,4,,,4,QUAIL 4,,,0,0,0,,0,0,0,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row42,2022,42,Soil sample,UBC Okanagan West Campus Lands,Quail,,,5,,,5,QUAIL 5,2.3,46,31,16192,16223,,7927.9,1166.9,1179.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row43,2022,43,Soil sample,UBC Okanagan West Campus Lands,Quail,,,6,,,6,QUAIL 6,0.2,4,3,17469,17472,,8316.8,1160.1,1161.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row44,2022,44,Soil sample,UBC Okanagan West Campus Lands,Quail,,,7,,,7,QUAIL 7,0.52,10.4,7,15843,15850,,8359.7,1139.5,1142.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row45,2022,45,Soil sample,UBC Okanagan West Campus Lands,Quail,,,8,,,8,QUAIL 8,0.21,4.2,3,16515,16518,,6986.1,1130,1131.1,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row46,2022,46,Soil sample,UBC Okanagan West Campus Lands,Quail,,,9,,,9,QUAIL 9,0.64,12.8,9,16463,16472,,7853.2,1151.1,1154.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row47,2022,47,Soil sample,UBC Okanagan West Campus Lands,Quail,,,10,,,10,QUAIL 10,2,40,30,17230,17260,,8074.1,1148.7,1160.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row48,2022,48,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,1,,,1,TUTT 1,0,0,0,15175,15175,,0,1140.2,1140.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row49,2022,49,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,2,,,2,TUTT 2,0,0,0,15641,15641,,0,1135.9,1135.9,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row50,2022,50,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,3,,,3,TUTT 3,0,0,0,16068,16068,,0,1147.7,1147.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row51,2022,51,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,4,,,4,TUTT 4,0.07,1.4,1,16391,16392,,8659.1,1140.8,1141.3,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row52,2022,52,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,5,,,5,TUTT 5,1.4,28,22,18333,18355,,7833.6,1135.1,1143.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row53,2022,53,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,6,,,6,TUTT 6,0.15,3,2,15553,15555,,8317.5,1136.5,1137.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row54,2022,54,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,7,,,7,TUTT 7,0.13,2.6,2,17620,17622,,7746.7,1133.5,1134.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row55,2022,55,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,8,,,8,TUTT 8,0,0,0,15491,15491,,0,1126.4,1126.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row56,2022,56,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,9,,,9,TUTT 9,0,0,0,17738,17738,,0,1124.2,1124.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2022_row57,2022,57,Soil sample,UBC Okanagan West Campus Lands,Tutt,,,10,,,10,TUTT 10,0.15,3,2,16101,16103,,8394.9,1129.3,1130.2,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_2,2025,2,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,2,,2,Q_2,0,0,0,18409,18409,4713,0,922.61,922.61,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_4,2025,3,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,4,,4,Q_4,0,0,0,9035,9035,4713,0,916.37,916.37,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_6,2025,4,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,6,,6,Q_6,0,0,0,12129,12129,4713,0,934.44,934.44,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_8,2025,5,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,8,,8,Q_8,0.31,6.2,3,11543,11546,4713,6873.7,931.68,933.22,1240,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_10,2025,6,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,10,,10,Q_10,0,0,0,12683,12683,4713,0,921.68,921.68,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_12,2025,7,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,12,,12,Q_12,0,0,0,12533,12533,4713,0,924.28,924.28,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_14,2025,8,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,14,,14,Q_14,6.4,128,60,11065,11125,4713,7042.3,928.96,961.93,25600,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_16,2025,9,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,16,,16,Q_16,1.3,26,12,10786,10798,4713,5801.7,927.78,933.2,5200,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_18,2025,10,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,18,,18,Q_18,0.21,4.2,2,11166,11168,4713,7648.6,944.55,945.75,840,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_20,2025,11,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,20,,20,Q_20,0,0,0,16476,16476,4713,0,917.4,917.4,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_22,2025,12,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,22,,22,Q_22,9.6,192,155,18899,19054,4713,6722.2,911.34,958.61,38400,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_24,2025,13,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,24,,24,Q_24,18.5,370,292,18384,18676,4713,6690.5,923.17,1013.3,74000,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_26,2025,14,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,26,,26,Q_26,10,200,162,19060,19222,4713,6592.5,918.27,966.09,40000,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_28,2025,15,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,28,,28,Q_28,31,620,484,18105,18589,4713,6802.7,917.38,1070.6,124000,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_Q_30,2025,16,Soil sample,UBC Okanagan West Campus Lands,Quail,,,,30,,30,Q_30,9.4,188,152,18882,19034,4713,6684.6,921.73,967.75,37600,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_2,2025,17,Soil sample,Knox Mountain,KM5,,,,2,,2,KM5_2,0,0,0,18585,18585,4713,0,880.88,880.88,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_4,2025,18,Soil sample,Knox Mountain,KM5,,,,4,,4,KM5_4,0,0,0,18703,18703,4713,0,882.89,882.89,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_6,2025,19,Soil sample,Knox Mountain,KM5,,,,6,,6,KM5_6,0,0,0,17690,17690,4713,0,886.84,886.84,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_8,2025,20,Soil sample,Knox Mountain,KM5,,,,8,,8,KM5_8,34.2,684,516,17500,18016,4713,6475.4,891.63,1051.6,136800,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_10,2025,21,Soil sample,Knox Mountain,KM5,,,,10,,10,KM5_10,0.12,2.4,1,9631,9632,4713,6136.7,875.82,876.36,480,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_12,2025,22,Soil sample,Knox Mountain,KM5,,,,12,,12,KM5_12,0,0,0,11806,11806,4713,0,879.36,879.36,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_14,2025,23,Soil sample,Knox Mountain,KM5,,,,14,,14,KM5_14,0,0,0,13656,13656,4713,0,882.21,882.21,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_16,2025,24,Soil sample,Knox Mountain,KM5,,,,16,,16,KM5_16,1.6,32,18,13481,13499,4713,6803.2,880.37,888.27,6400,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_18,2025,25,Soil sample,Knox Mountain,KM5,,,,18,,18,KM5_18,140,2800,1591,12557,14148,4713,6724.6,887.94,1544.3,560000,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_20,2025,26,Soil sample,Knox Mountain,KM5,,,,20,,20,KM5_20,60.6,1212,657,12435,13092,4713,6646,890.46,1179.3,242400,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_22,2025,27,Soil sample,Knox Mountain,KM5,,,,22,,22,KM5_22,0.08,1.6,1,13912,13913,4713,6531.8,891,891.41,320,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_24,2025,28,Soil sample,Knox Mountain,KM5,,,,24,,24,KM5_24,0.35,7,3,10067,10070,4713,6577.1,881.6,883.3,1400,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_26,2025,29,Soil sample,Knox Mountain,KM5,,,,26,,26,KM5_26,0,0,0,15899,15899,4713,0,873.81,873.81,0,0,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_28,2025,30,Soil sample,Knox Mountain,KM5,,,,28,,28,KM5_28,107.6,2152,1626,16970,18596,4713,6282.3,885.69,1357.6,430400,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM5_30,2025,31,Soil sample,Knox Mountain,KM5,,,,30,,30,KM5_30,0.66,13.2,9,16011,16020,4713,6100.4,869.6,872.53,2640,1,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_control_D10,2025,63,Assay control,,,,,,,,,NTC,0,0,0,18995,18995,4713,0,877.18,877.18,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2025_control_E10,2025,64,Assay control,,,,,,,,,NTC,0,0,0,18996,18996,4713,0,887.33,887.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2025_control_F10,2025,65,Assay control,,,,,,,,,NTC,0,0,0,19824,19824,4713,0,887.28,887.28,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2025_control_G10,2025,66,Assay control,,,,,,,,,197198 +,159,3180,2485,17177,19662,4713,6245.9,1835.4,2392.8,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2025_control_H10,2025,67,Assay control,,,,,,,,,197198 +,165,3300,2305,15279,17584,4713,6477.3,1746.5,2366.6,,,ddPCR,Rhizophagus irregularis DAOM197198,Assay control
+2025_KM2_2,2025,18,Soil sample,Knox Mountain,KM2,,,,2,,2,KM2 2,0,0,0,18680,18680,4713,0,915.82,915.82,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_4,2025,19,Soil sample,Knox Mountain,KM2,,,,4,,4,KM2 4,0,0,0,18734,18734,4713,0,955.11,955.11,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_6,2025,20,Soil sample,Knox Mountain,KM2,,,,6,,6,KM2 6,0,0,0,16356,16356,4713,0,898.89,898.89,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_8,2025,21,Soil sample,Knox Mountain,KM2,,,,8,,8,KM2 8,0,0,0,20294,20294,4713,0,946.72,946.72,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_10,2025,22,Soil sample,Knox Mountain,KM2,,,,10,,10,KM2 10,0,0,0,17999,17999,4713,0,909.7,909.7,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_12,2025,23,Soil sample,Knox Mountain,KM2,,,,12,,12,KM2 12,0,0,0,18535,18535,4713,0,934.74,934.74,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_14,2025,24,Soil sample,Knox Mountain,KM2,,,,14,,14,KM2 14,0,0,0,18889,18889,4713,0,906.58,906.58,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_16,2025,25,Soil sample,Knox Mountain,KM2,,,,16,,16,KM2 16,0,0,0,19963,19963,4713,0,898.71,898.71,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_18,2025,26,Soil sample,Knox Mountain,KM2,,,,18,,18,KM2 18,0,0,0,19793,19793,4713,0,906.07,906.07,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_20,2025,27,Soil sample,Knox Mountain,KM2,,,,20,,20,KM2 20,0,0,0,18481,18481,4713,0,910.88,910.88,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_22,2025,28,Soil sample,Knox Mountain,KM2,,,,22,,22,KM2 22,0,0,0,14766,14766,4713,0,878.47,878.47,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_24,2025,29,Soil sample,Knox Mountain,KM2,,,,24,,24,KM2 24,0,0,0,19539,19539,4713,0,887.04,887.04,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_26,2025,30,Soil sample,Knox Mountain,KM2,,,,26,,26,KM2 26,0,0,0,18848,18848,4713,0,900.33,900.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_28,2025,31,Soil sample,Knox Mountain,KM2,,,,28,,28,KM2 28,0,0,0,18440,18440,4713,0,900.92,900.92,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM2_30,2025,32,Soil sample,Knox Mountain,KM2,,,,30,,30,KM2 30,0,0,0,18329,18329,4713,0,900.38,900.38,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_2,2025,33,Soil sample,Knox Mountain,KM4,,,,2,,2,KM4 2,0,0,0,17980,17980,4713,0,909.61,909.61,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_4,2025,34,Soil sample,Knox Mountain,KM4,,,,4,,4,KM4 4,0,0,0,17889,17889,4713,0,899.44,899.44,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_6,2025,35,Soil sample,Knox Mountain,KM4,,,,6,,6,KM4 6,0,0,0,17377,17377,4713,0,911.17,911.17,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_8,2025,36,Soil sample,Knox Mountain,KM4,,,,8,,8,KM4 8,0,0,0,19051,19051,4713,0,889.86,889.86,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_10,2025,37,Soil sample,Knox Mountain,KM4,,,,10,,10,KM4 10,0,0,0,20840,20840,4713,0,883.77,883.77,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_12,2025,38,Soil sample,Knox Mountain,KM4,,,,12,,12,KM4 12,0,0,0,19643,19643,4713,0,896.54,896.54,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_14,2025,39,Soil sample,Knox Mountain,KM4,,,,14,,14,KM4 14,0,0,0,18938,18938,4713,0,888.95,888.95,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_16,2025,40,Soil sample,Knox Mountain,KM4,,,,16,,16,KM4 16,0,0,0,20765,20765,4713,0,893.46,893.46,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_18,2025,41,Soil sample,Knox Mountain,KM4,,,,18,,18,KM4 18,0,0,0,20206,20206,4713,0,894.35,894.35,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_20,2025,42,Soil sample,Knox Mountain,KM4,,,,20,,20,KM4 20,0,0,0,20714,20714,4713,0,893.39,893.39,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_22,2025,43,Soil sample,Knox Mountain,KM4,,,,22,,22,KM4 22,0,0,0,18173,18173,4713,0,895.33,895.33,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_24,2025,44,Soil sample,Knox Mountain,KM4,,,,24,,24,KM4 24,0,0,0,15627,15627,4713,0,881.91,881.91,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_26,2025,45,Soil sample,Knox Mountain,KM4,,,,26,,26,KM4 26,0,0,0,16855,16855,4713,0,880.31,880.31,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_28,2025,46,Soil sample,Knox Mountain,KM4,,,,28,,28,KM4 28,0,0,0,17352,17352,4713,0,885.4,885.4,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
+2025_KM4_30,2025,47,Soil sample,Knox Mountain,KM4,,,,30,,30,KM4 30,0,0,0,18571,18571,4713,0,881.08,881.08,,,ddPCR,Rhizophagus irregularis DAOM197198,Soil
